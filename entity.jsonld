@@ -3,18 +3,19 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/#varhelyi-viktoria",
+      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
       "name": "Várhelyi Viktória",
       "givenName": "Viktória",
       "familyName": "Várhelyi",
       "alternateName": "Viktória Várhelyi",
       "jobTitle": "AI-láthatósági specialista",
-      "description": "Várhelyi Viktória AI-láthatósági specialista, aki vállalkozások közösségi, tartalmi és külső digitális jelenlétének szakmai gondozásával, tartalomkészítéssel, szakmai cikkírással, üzleti kommunikációval, profilmenedzsmenttel és a nyilvános digitális információk következetességének támogatásával foglalkozik. Szakmai tudásának és gyakorlati tapasztalatának építése ezen a területen 2022-ben kezdődött.",
-      "url": "https://www.varhelyicsanad.hu/#varhelyi-viktoria",
+      "description": "Várhelyi Viktória AI-láthatósági specialista, egyéni vállalkozó és a WikiAI.hu alapítója. Vállalkozások szakmai tartalmaival, üzleti és közösségi kommunikációjával, online reputációjával, nyilvános profilinformációival és hosszú távú digitális jelenlétének következetes gondozásával foglalkozik. A WikiAI.hu-ban a partneri és üzleti kapcsolatok, a sponsored tartalmi együttműködések, az online reputációs és kommunikációs területek, valamint a fizetett Posztok együttműködései tartoznak a fókuszába.",
+      "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
       "image": "https://www.varhelyicsanad.hu/kepek/varhelyi-viktoria-ai-lathatosagi-specialista-1x1.webp",
       "sameAs": [
         "https://www.linkedin.com/in/varhelyi-viktoria/",
-        "https://www.facebook.com/varhelyiviktoria"
+        "https://www.facebook.com/varhelyiviktoria",
+        "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
       ],
       "knowsLanguage": [
         {
@@ -28,29 +29,106 @@
           "alternateName": "en"
         }
       ],
-      "worksFor": {
-        "@id": "https://www.varhelyicsanad.hu/#business"
-      },
       "colleague": {
         "@id": "https://www.varhelyicsanad.hu/#person"
       },
       "knowsAbout": [
-        {"@type":"Thing","name":"Content creation","@id":"https://www.wikidata.org/wiki/Q5276056","sameAs":"https://www.wikidata.org/wiki/Q5276056"},
-        {"@type":"Thing","name":"Professional writing / article writing","@id":"https://www.wikidata.org/wiki/Q3953114","sameAs":"https://www.wikidata.org/wiki/Q3953114"},
-        {"@type":"Thing","name":"Brand management","@id":"https://www.wikidata.org/wiki/Q453181","sameAs":"https://www.wikidata.org/wiki/Q453181"},
-        {"@type":"Thing","name":"Online reputation management","@id":"https://www.wikidata.org/wiki/Q1975845","sameAs":"https://www.wikidata.org/wiki/Q1975845"},
-        {"@type":"Thing","name":"Reputation management","@id":"https://www.wikidata.org/wiki/Q478594","sameAs":"https://www.wikidata.org/wiki/Q478594"},
-        {"@type":"Thing","name":"Digital identity","@id":"https://www.wikidata.org/wiki/Q528053","sameAs":"https://www.wikidata.org/wiki/Q528053"},
-        {"@type":"Thing","name":"Online identity / online presence","@id":"https://www.wikidata.org/wiki/Q1091147","sameAs":"https://www.wikidata.org/wiki/Q1091147"},
-        {"@type":"Thing","name":"Business communication","@id":"https://www.wikidata.org/wiki/Q4115749","sameAs":"https://www.wikidata.org/wiki/Q4115749"},
-        {"@type":"Thing","name":"Social media marketing","@id":"https://www.wikidata.org/wiki/Q267114","sameAs":"https://www.wikidata.org/wiki/Q267114"},
-        {"@type":"Thing","name":"Google Business Profile","@id":"https://www.wikidata.org/wiki/Q21235252","sameAs":"https://www.wikidata.org/wiki/Q21235252"},
-        {"@type":"Thing","name":"LinkedIn","@id":"https://www.wikidata.org/wiki/Q213660","sameAs":"https://www.wikidata.org/wiki/Q213660"},
-        {"@type":"Thing","name":"Facebook","@id":"https://www.wikidata.org/wiki/Q355","sameAs":"https://www.wikidata.org/wiki/Q355"},
-        {"@type":"Thing","name":"Generative artificial intelligence","@id":"https://www.wikidata.org/wiki/Q117246174","sameAs":"https://www.wikidata.org/wiki/Q117246174"},
-        {"@type":"Thing","name":"Artificial intelligence","@id":"https://www.wikidata.org/wiki/Q11660","sameAs":"https://www.wikidata.org/wiki/Q11660"},
-        {"@type":"Thing","name":"Large language model","@id":"https://www.wikidata.org/wiki/Q115305900","sameAs":"https://www.wikidata.org/wiki/Q115305900"},
-        {"@type":"Thing","name":"Search engine optimization","@id":"https://www.wikidata.org/wiki/Q180711","sameAs":"https://www.wikidata.org/wiki/Q180711"}
+        {
+          "@type": "Thing",
+          "name": "Content creation",
+          "@id": "https://www.wikidata.org/wiki/Q5276056",
+          "sameAs": "https://www.wikidata.org/wiki/Q5276056"
+        },
+        {
+          "@type": "Thing",
+          "name": "Professional writing / article writing",
+          "@id": "https://www.wikidata.org/wiki/Q3953114",
+          "sameAs": "https://www.wikidata.org/wiki/Q3953114"
+        },
+        {
+          "@type": "Thing",
+          "name": "Brand management",
+          "@id": "https://www.wikidata.org/wiki/Q453181",
+          "sameAs": "https://www.wikidata.org/wiki/Q453181"
+        },
+        {
+          "@type": "Thing",
+          "name": "Online reputation management",
+          "@id": "https://www.wikidata.org/wiki/Q1975845",
+          "sameAs": "https://www.wikidata.org/wiki/Q1975845"
+        },
+        {
+          "@type": "Thing",
+          "name": "Reputation management",
+          "@id": "https://www.wikidata.org/wiki/Q478594",
+          "sameAs": "https://www.wikidata.org/wiki/Q478594"
+        },
+        {
+          "@type": "Thing",
+          "name": "Digital identity",
+          "@id": "https://www.wikidata.org/wiki/Q528053",
+          "sameAs": "https://www.wikidata.org/wiki/Q528053"
+        },
+        {
+          "@type": "Thing",
+          "name": "Online identity / online presence",
+          "@id": "https://www.wikidata.org/wiki/Q1091147",
+          "sameAs": "https://www.wikidata.org/wiki/Q1091147"
+        },
+        {
+          "@type": "Thing",
+          "name": "Business communication",
+          "@id": "https://www.wikidata.org/wiki/Q4115749",
+          "sameAs": "https://www.wikidata.org/wiki/Q4115749"
+        },
+        {
+          "@type": "Thing",
+          "name": "Social media marketing",
+          "@id": "https://www.wikidata.org/wiki/Q267114",
+          "sameAs": "https://www.wikidata.org/wiki/Q267114"
+        },
+        {
+          "@type": "Thing",
+          "name": "Google Business Profile",
+          "@id": "https://www.wikidata.org/wiki/Q21235252",
+          "sameAs": "https://www.wikidata.org/wiki/Q21235252"
+        },
+        {
+          "@type": "Thing",
+          "name": "LinkedIn",
+          "@id": "https://www.wikidata.org/wiki/Q213660",
+          "sameAs": "https://www.wikidata.org/wiki/Q213660"
+        },
+        {
+          "@type": "Thing",
+          "name": "Facebook",
+          "@id": "https://www.wikidata.org/wiki/Q355",
+          "sameAs": "https://www.wikidata.org/wiki/Q355"
+        },
+        {
+          "@type": "Thing",
+          "name": "Generative artificial intelligence",
+          "@id": "https://www.wikidata.org/wiki/Q117246174",
+          "sameAs": "https://www.wikidata.org/wiki/Q117246174"
+        },
+        {
+          "@type": "Thing",
+          "name": "Artificial intelligence",
+          "@id": "https://www.wikidata.org/wiki/Q11660",
+          "sameAs": "https://www.wikidata.org/wiki/Q11660"
+        },
+        {
+          "@type": "Thing",
+          "name": "Large language model",
+          "@id": "https://www.wikidata.org/wiki/Q115305900",
+          "sameAs": "https://www.wikidata.org/wiki/Q115305900"
+        },
+        {
+          "@type": "Thing",
+          "name": "Search engine optimization",
+          "@id": "https://www.wikidata.org/wiki/Q180711",
+          "sameAs": "https://www.wikidata.org/wiki/Q180711"
+        }
       ],
       "identifier": [
         {
@@ -61,25 +139,58 @@
         }
       ],
       "areaServed": [
-        {"@type":"City","name":"Debrecen"},
-        {"@type":"City","name":"Hajdúszoboszló"},
-        {"@type":"AdministrativeArea","name":"Hajdú-Bihar County"},
-        {"@type":"Country","name":"Hungary"}
+        {
+          "@type": "City",
+          "name": "Debrecen"
+        },
+        {
+          "@type": "City",
+          "name": "Hajdúszoboszló"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hajdú-Bihar County"
+        },
+        {
+          "@type": "Country",
+          "name": "Hungary"
+        }
       ],
-      "subjectOf": {
-        "@id": "https://www.varhelyicsanad.hu/#varhelyi-viktoria"
+      "subjectOf": [
+        {
+          "@type": "WebPage",
+          "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
+          "name": "Várhelyi Viktória részletes szakmai bemutatkozása"
+        },
+        {
+          "@type": "WebPage",
+          "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
+          "name": "Várhelyi Viktória – WikiAI.hu"
+        }
+      ],
+      "affiliation": {
+        "@id": "https://www.wikiai.hu/#organization"
       }
     },
     {
       "@type": "Occupation",
-      "@id": "https://www.varhelyicsanad.hu/#occupation-ai-visibility-specialist-viktoria",
+      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#occupation-ai-visibility-specialist",
       "name": "AI-láthatósági specialista",
       "alternateName": "AI Visibility Specialist",
-      "description": "Szakmai szerepkör vállalkozások közösségi, tartalmi és külső digitális jelenlétének szakmai gondozására, tartalomkészítésre, üzleti kommunikációra, profilkonzisztenciára, digitális identitásra és AI-láthatósági támogatásra.",
+      "description": "Szakmai szerepkör vállalkozások tartalmi, kommunikációs, reputációs és külső digitális jelenlétének gondozására, tartalomkészítésre, üzleti kommunikációra, profilkonzisztenciára, digitális identitásra és AI-láthatósági támogatásra.",
       "occupationLocation": [
-        {"@type":"City","name":"Debrecen"},
-        {"@type":"City","name":"Hajdúszoboszló"},
-        {"@type":"Country","name":"Hungary"}
+        {
+          "@type": "City",
+          "name": "Debrecen"
+        },
+        {
+          "@type": "City",
+          "name": "Hajdúszoboszló"
+        },
+        {
+          "@type": "Country",
+          "name": "Hungary"
+        }
       ],
       "skills": [
         "AI visibility support",
@@ -97,18 +208,19 @@
     },
     {
       "@type": "Service",
-      "@id": "https://www.varhelyicsanad.hu/#service-ai-visibility-viktoria",
+      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#service-ai-visibility",
       "name": "AI-láthatósági és digitális jelenlétmenedzsment",
       "alternateName": "Digital Presence Governance",
       "serviceType": "AI visibility and digital presence management",
       "provider": {
-        "@id": "https://www.varhelyicsanad.hu/#varhelyi-viktoria"
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html"
       },
-      "description": "Vállalkozások közösségi, tartalmi és külső digitális jelenlétének szakmai gondozása, professzionális tartalomkészítés, szakmai cikkírás, üzleti kommunikáció, digitális profilmenedzsment és nyilvános információs konzisztencia támogatása. A szolgáltatás nem garantál keresési helyezést vagy AI-ajánlást.",
+      "description": "Vállalkozások szakmai tartalmainak, üzleti és közösségi kommunikációjának, online reputációjának, nyilvános profilinformációinak és hosszú távú digitális jelenlétének következetes gondozása. A szolgáltatás nem garantál keresési helyezést vagy AI-ajánlást.",
       "areaServed": [
-        {"@type":"City","name":"Debrecen"},
-        {"@type":"City","name":"Hajdúszoboszló"},
-        {"@type":"Country","name":"Hungary"}
+        {
+          "@type": "Country",
+          "name": "Hungary"
+        }
       ],
       "audience": {
         "@type": "BusinessAudience",
@@ -117,6 +229,16 @@
       "isRelatedTo": {
         "@id": "https://www.varhelyicsanad.hu/#service-ai-website-development"
       }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.wikiai.hu/#organization",
+      "name": "WikiAI.hu",
+      "url": "https://www.wikiai.hu/",
+      "founder": {
+        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html"
+      },
+      "description": "Magyar vállalkozások és szakmai szereplők AI-érthető, következetes és forrásolható digitális bemutatását támogató platform."
     }
   ]
 }
