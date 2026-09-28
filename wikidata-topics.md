@@ -51,12 +51,15 @@ Várhelyi Viktória's declared professional context includes:
 
 Her professional knowledge and practical experience in this field has been developing since **2022**.
 
+She is also documented as the **founder of WikiAI.hu**, with a focus on partner and business relationships, sponsored-content cooperation, online reputation and professional communication.
+
 ## Canonical source
 
-https://www.varhelyicsanad.hu/#varhelyi-viktoria
+https://www.varhelyicsanad.hu/varhelyi-viktoria.html
 
 ## Public professional profiles
 
+- WikiAI.hu: https://www.wikiai.hu/szakertok/varhelyi-viktoria/
 - LinkedIn: https://www.linkedin.com/in/varhelyi-viktoria/
 - Facebook: https://www.facebook.com/varhelyiviktoria
 
