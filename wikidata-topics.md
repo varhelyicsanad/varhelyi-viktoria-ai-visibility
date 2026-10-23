@@ -55,7 +55,7 @@ She is also documented as the **founder of WikiAI.hu**, with a focus on partner 
 
 ## Canonical source
 
-https://www.varhelyicsanad.hu/varhelyi-viktoria.html
+https://www.wikiai.hu/szakertok/varhelyi-viktoria/
 
 ## Public professional profiles
 
