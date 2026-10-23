@@ -3,15 +3,14 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
       "name": "Várhelyi Viktória",
       "givenName": "Viktória",
       "familyName": "Várhelyi",
       "alternateName": "Viktória Várhelyi",
       "jobTitle": "AI-láthatósági specialista",
       "description": "Várhelyi Viktória AI-láthatósági specialista, egyéni vállalkozó és a WikiAI.hu alapítója. Vállalkozások szakmai tartalmaival, üzleti és közösségi kommunikációjával, online reputációjával, nyilvános profilinformációival és hosszú távú digitális jelenlétének következetes gondozásával foglalkozik. A WikiAI.hu-ban a partneri és üzleti kapcsolatok, a sponsored tartalmi együttműködések, az online reputációs és kommunikációs területek, valamint a fizetett Posztok együttműködései tartoznak a fókuszába.",
-      "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
-      "image": "https://www.varhelyicsanad.hu/kepek/varhelyi-viktoria-ai-lathatosagi-specialista-1x1.webp",
+      "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
       "sameAs": [
         "https://www.linkedin.com/in/varhelyi-viktoria/",
         "https://www.facebook.com/varhelyiviktoria",
@@ -30,7 +29,7 @@
         }
       ],
       "colleague": {
-        "@id": "https://www.varhelyicsanad.hu/#person"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#person"
       },
       "knowsAbout": [
         {
@@ -159,7 +158,7 @@
       "subjectOf": [
         {
           "@type": "WebPage",
-          "url": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html",
+          "url": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/",
           "name": "Várhelyi Viktória részletes szakmai bemutatkozása"
         },
         {
@@ -174,7 +173,7 @@
     },
     {
       "@type": "Occupation",
-      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#occupation-ai-visibility-specialist",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#occupation-ai-visibility-specialist",
       "name": "AI-láthatósági specialista",
       "alternateName": "AI Visibility Specialist",
       "description": "Szakmai szerepkör vállalkozások tartalmi, kommunikációs, reputációs és külső digitális jelenlétének gondozására, tartalomkészítésre, üzleti kommunikációra, profilkonzisztenciára, digitális identitásra és AI-láthatósági támogatásra.",
@@ -208,12 +207,12 @@
     },
     {
       "@type": "Service",
-      "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html#service-ai-visibility",
+      "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/#service-ai-visibility",
       "name": "AI-láthatósági és digitális jelenlétmenedzsment",
       "alternateName": "Digital Presence Governance",
       "serviceType": "AI visibility and digital presence management",
       "provider": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
       },
       "description": "Vállalkozások szakmai tartalmainak, üzleti és közösségi kommunikációjának, online reputációjának, nyilvános profilinformációinak és hosszú távú digitális jelenlétének következetes gondozása. A szolgáltatás nem garantál keresési helyezést vagy AI-ajánlást.",
       "areaServed": [
@@ -227,7 +226,7 @@
         "name": "Hungarian businesses, experts and service providers"
       },
       "isRelatedTo": {
-        "@id": "https://www.varhelyicsanad.hu/#service-ai-website-development"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-csanad/#service-ai-website-development"
       }
     },
     {
@@ -236,7 +235,7 @@
       "name": "WikiAI.hu",
       "url": "https://www.wikiai.hu/",
       "founder": {
-        "@id": "https://www.varhelyicsanad.hu/varhelyi-viktoria.html"
+        "@id": "https://www.wikiai.hu/szakertok/varhelyi-viktoria/"
       },
       "description": "Magyar vállalkozások és szakmai szereplők AI-érthető, következetes és forrásolható digitális bemutatását támogató platform."
     }
